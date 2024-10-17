@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <a target="_blank" href="https://fokus-neon-sigma.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/e5df109f-dc90-4b5b-a8b1-11e8ee1d7948">
+    <img src="https://github.com/user-attachments/assets/8130b4de-176e-46f5-924e-1369eb96c241">
   </a>
 </div>
 <br>
