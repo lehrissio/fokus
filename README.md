@@ -12,6 +12,8 @@
 ## 🚀 Tecnologias
 * HTML e CSS
 * Java Script
+* Manipulação do DOM e LocalStorage
+* Flexbox
   
 <br>
 
